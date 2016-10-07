@@ -1,3 +1,6 @@
+body{
+	background-color: #cdcdcd;
+}
 #circulo{
 	animation-direction:alternate;
 	animation-duration: 5s;
