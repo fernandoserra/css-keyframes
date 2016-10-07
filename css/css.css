@@ -37,5 +37,5 @@
 @keyframes mover3{
 	0%{ background-color: rgba(255,0,0,.3); transform: translateX(0px) translateY(0px) ; }
 	25%{ background-color: rgba(0,255,0,.3); transform: translateX(50px) translateY(100px)  ; }
-	50%{ background-color: rgba(0,0,255,.3); transform: translateX(100px) translateY(50px) ; }
+	50%{ background-color: rgba(231,28,13,.3); transform: translateX(100px) translateY(50px) ; }
 }
