@@ -9,6 +9,7 @@ body{
 	animation-timing-function:initial; ;
 	background-color:#ccc;
 	border-radius: 50%;
+	cursor:pointer;
 	height: 100px;
 	width: 100px;
 }
